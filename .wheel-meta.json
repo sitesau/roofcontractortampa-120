@@ -1,0 +1,22 @@
+{
+  "wheel_id": 824,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-120",
+  "project": "roof-repair-tampa-signs-you-need-c278f187be060a8ac43058d9a52391",
+  "parent_t1_ref": "roofcontractortampa-159",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa signs you need",
+  "intended_url": "http://roof-repair-tampa-signs-you-need-c278f187be060a8ac43058d9a52391.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "f11d0fc38ad307ec",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repair-tampa-how-to-choose-e06c0b283a0b7b8b725388f3b8f787e/",
+      "anchor": "a guide to roof repair tampa how to choose",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
